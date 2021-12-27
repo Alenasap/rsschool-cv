@@ -1,13 +1,16 @@
 # Hello! My name is Alena Sapotko!
 
-_and here if my first CV ever_
-![My profile photo](/https://sun9-88.userapi.com/impg/T1mrRs-C-eRavlQ8dJSps0U66Poy8OhAqwtfBw/LY0UKrUtiF0.jpg?size=853x1280&quality=96&sign=06e8ce6075e4f716f47c509108ed7e71&type=album) ##_Contasts_
-_Nationality: Belarusian_
-_Hometown: Minsk_
-_Marital status: Married_
-_Date of birth: 17th March 1998_
-_email: alena.dudareva1703@gmail.com_
-_Discourd-nickname: Alenasapotko#1859_
+_And here if my first CV ever_  
+![My profile photo](img.jpg)
+
+## _Contasts_
+
+_Nationality: Belarusian_  
+_Hometown: Minsk_  
+_Marital status: Married_  
+_Date of birth: 17th March 1998_  
+_email: alena.dudareva1703@gmail.com_  
+_Discourd-nickname: Alenasapotko#1859_  
 _telephone number: +375297684034_
 
 ## Information about me
@@ -21,11 +24,11 @@ _telephone number: +375297684034_
 
 ### My strengths:
 
-\*I`m a hightly motivated young person who is full of energy to study and constantly devolop my skills.
+I`m a hightly motivated young person who is full of energy to study and constantly devolop my skills.
 
 ### My skills:
 
-\*Thanks to RS School now I know some basics of HTML, CSS. I also do have some experience of how to use Chrome DevTools, VSCode, Git and GitHub! Now I`m even able to make my own CV!
+Thanks to RS School now I know some basics of HTML, CSS. I also do have some experience of how to use Chrome DevTools, VSCode, Git and GitHub! Now I`m even able to make my own CV!
 
 ### Examples of Code
 
