@@ -5,7 +5,7 @@
 ## _Contasts_
 
 - _email: alena.dudareva1703@gmail.com_
-- _Discourd-nickname: Alenasapotko#1859_
+- _Discord-nickname: Alenasapotko#1859_
 
 ---
 
@@ -29,7 +29,7 @@ Thanks to RS School now I know some basics of HTML, CSS. I also do have some exp
 
 ### My strengths:
 
-I`m a hightly motivated young person who is full of energy to study and constantly devolop my skills.
+I`m a highly motivated young person who is full of energy to study and constantly develop my skills.
 
 ### Examples of Code
 
@@ -48,7 +48,7 @@ I only have the experience of working with HTML and CSS on platform https://ru.c
 
 ### My education
 
-I`ve graduated from Belarusian State Medical University, Faculty og General Medicine in 2021. Now I work as an Ophthalmologist in govermental clinic. RS School is my first training in the field of IT.
+I`ve graduated from Belarusian State Medical University, Faculty og General Medicine in 2021. Now I work as an Ophthalmologist in governmental clinic. RS School is my first training in the field of IT.
 
 ### Languages
 
