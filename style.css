@@ -42,7 +42,7 @@ header {
     cursor: pointer;
 }
 
-.nav-link {
+.nav-link, .experience-list li a {
     text-decoration: none;
     padding: 15px;
     font-size: medium;
@@ -159,4 +159,11 @@ footer {
     display: flex;
     justify-content: center;
     font-size: small;
+}
+
+.experience-list li a {
+    font: inherit;
+}
+.experience-list li a:hover {
+    color: #60c4ca;
 }
