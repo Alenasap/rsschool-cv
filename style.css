@@ -76,7 +76,7 @@ header {
     margin: 0;
 }
 
-.contacts span{
+.contacts span {
     color: #fff;
 }
 
@@ -85,9 +85,9 @@ header {
 }
 
 .contacts ul {
-list-style: none;
-margin-top: 0;
-padding: 0;
+    list-style: none;
+    margin-top: 0;
+    padding: 0;
 }
 
 main {
@@ -105,6 +105,7 @@ main {
 
 .section {
     width: 50%;
+
     @media (max-width: 768px) {
         .section {
             width: 100%;
