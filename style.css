@@ -29,7 +29,7 @@ header {
 
 @media (max-width: 768px) {
     header {
-        margin: 10px;
+        margin: 0;
     }
 }
 
@@ -44,7 +44,7 @@ header {
 }
 
 @media (max-width: 768px) {
-    .nav-list, .footer-list {
+    .nav-list {
         flex-direction: column
     }
 }
@@ -54,7 +54,7 @@ header {
     cursor: pointer;
 }
 
-.nav-link, .experience-list li a {
+.nav-link, .experience-list a {
     text-decoration: none;
     padding: 15px;
     font-size: medium;
@@ -108,6 +108,15 @@ h1 {
     padding: 0;
 }
 
+.contacts a {
+    text-decoration: none;
+    color: #373f3f;
+}
+
+.contacts a:hover {
+    color: #fff;
+}
+
 main {
     padding: auto;
     margin: 0 100px;
@@ -116,7 +125,7 @@ main {
 
 @media (max-width: 768px) {
     main {
-        margin: 10px;
+        margin: 0;
         font-size: 18px;
     }
 }
@@ -159,7 +168,7 @@ footer {
 
 @media (max-width: 768px) {
     footer {
-        margin: 0 10px;
+        margin: 0;
     }
 }
 
@@ -193,9 +202,9 @@ footer {
     font-size: small;
 }
 
-.experience-list li a {
+.experience-list a {
     font: inherit;
 }
-.experience-list li a:hover {
+.experience-list a:hover {
     color: #60c4ca;
 }
