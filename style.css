@@ -60,6 +60,7 @@ header {
     font-size: medium;
     color: #59412f;
     font-weight: 300;
+    transition: 0.5s;
 }
 
 .nav-link:hover {
